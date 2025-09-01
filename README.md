@@ -12,24 +12,34 @@
   </h1>
 </div>
 
+
+
 ### :man_technologist: Обо мне :
 Начинающий аналитик с опытом в консалтинге и бизнес-аналитике:
-- 👨‍🔬 Занимаюсь эконометрическими исследованиями;
+- 👨‍🔬 Занимаюсь эконометрическими и статистическими исследованиями в университете;
 - :man_office_worker:Стажировался в KPMG, МТС как ИТ-консультант и аналитик;
 - :man_student:Закончил Финансовый университет по направлению "Корпоративные финансы и бизнес-аналитика";
 - :rocket:Учусь в двух магистратурах ВШЭ: по бизнес-информатике (ВШБ) и по аналитике больших данных (ФКН)
+---
+### ♎ Сферы научных интересов :
+- :moneybag: Портфельное моделирование;
+- :chart_with_upwards_trend: Прогнозирование продаж и ценообразование;
+- :city_sunrise: Макроэкономические исследования и социальная статистика
+---
+### :hammer_and_wrench: Что я использую :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" title="Excel" **alt="Excel" width="60" height="60"/>
+</div>
 
-<!--
-**zarzir2022/zarzir2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ♎ Библиотеки :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain-wordmark.svg" title="matplotlib"  alt="matplotlib" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg" title="numpy"  alt="numpy" width="70" height="70"/>&nbsp;
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
